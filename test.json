@@ -1,0 +1,20 @@
+{
+"outbounds": [
+    {
+      "disable_mtu_discovery": false,
+      "down_mbps": 50,
+      "obfs": "6R5mSzrztlz0rhe",
+      "server": "sg-hysteria.racevpn.com",
+      "server_port": 8443,
+      "tls": {
+        "enabled": true,
+        "insecure": true,
+        "server_name": "sg-hysteria.racevpn.com"
+      },
+      "up_mbps": 10,
+      "type": "hysteria",
+      "domain_strategy": "",
+      "tag": "physy"
+    }
+  ]
+}
