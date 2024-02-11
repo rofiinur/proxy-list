@@ -3,7 +3,7 @@
     "servers": [
       {
         "tag": "google",
-        "address": "tls://8.8.8.8"
+        "address": "tcp://8.8.8.8"
       },
       {
         "tag": "local",
