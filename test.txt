@@ -1,3 +1,4 @@
+{
 "outbounds": [
     {
       "disable_mtu_discovery": false,
@@ -17,3 +18,4 @@
       "tag": "physy"
     }
   ]
+}
