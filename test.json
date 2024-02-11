@@ -2,7 +2,7 @@
 "outbounds": [
     {
       "disable_mtu_discovery": false,
-      "down_mbps": 50,
+      "down_mbps": 20,
       "obfs": "6R5mSzrztlz0rhe",
       "server": "sg-hysteria.racevpn.com",
       "server_port": 8443,
