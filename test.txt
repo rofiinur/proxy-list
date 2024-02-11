@@ -1,1 +1,35 @@
-sn://hysteria?eNpjZWBgKE7XzagsLkktykzUK0pMTi0ryNNLzn_7W4EBDBpBhFmQaW5wVVFVSU6VQVHGUxxaGrmASo3gmsCAEcYDAO6BHII
+"outbounds": [
+    {
+      "disable_mtu_discovery": false,
+      "down_mbps": 50,
+      "hop_interval": 1,
+      "obfs": "6R5mSzrztlz0rhe",
+      "server": "sg-hysteria.racevpn.com",
+      "server_port": 8443,
+      "tls": {
+        "enabled": true,
+        "insecure": true,
+        "server_name": "sg-hysteria.racevpn.com"
+      },
+      "up_mbps": 10,
+      "type": "hysteria",
+      "domain_strategy": "",
+      "tag": "physy"
+    },
+    {
+      "tag": "direct",
+      "type": "direct"
+    },
+    {
+      "tag": "bypass",
+      "type": "direct"
+    },
+    {
+      "tag": "block",
+      "type": "block"
+    },
+    {
+      "tag": "dns-out",
+      "type": "dns"
+    }
+  ],
