@@ -35,8 +35,7 @@
   "server": "sg-ssh.ipracevpn.com",
   "server_port": 442,
   "user": "racevpn.com-cxvfd",
-  "password": "fvcfg",
-  "client_version": "SSH-2.0-OpenSSH_7.4p1"
+  "password": "fvcfg"
 },
 
     {
