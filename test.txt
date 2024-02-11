@@ -32,4 +32,4 @@
       "tag": "dns-out",
       "type": "dns"
     }
-  ],
+  ]
