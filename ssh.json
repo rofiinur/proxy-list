@@ -32,7 +32,7 @@
    {
   "type": "ssh",
   "tag": "ssh-out",
-  "server": "sg-ssh.ipracevpn.com",
+  "server": "139.162.59.102",
   "server_port": 442,
   "user": "racevpn.com-cxvfd",
   "password": "fvcfg"
