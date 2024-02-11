@@ -54,6 +54,10 @@
         "outbound": "dns-out"
       },
       {
+        "network": "udp",
+        "outbound": "direct"
+      },
+      {
         "geoip": [
           "private"
         ],
